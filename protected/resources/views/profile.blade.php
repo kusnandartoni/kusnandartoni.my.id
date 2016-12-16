@@ -45,19 +45,20 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						<li>
 						
 							<div class="slider-info">
-								  <p>Lorem Ipsum is simply dummy text of the printing. </p>
+								  <p>Persiapkan hari ini untuk keinginan hari esok <br><sub>Aesop</sub></p>
+
 							</div>
 						</li>
 						<li>
 							<div class="slider-info">
 							   
-								   <p>Itaque earum rerum hic tenetur a sapiente delectus</p>
+								   <p>Kesenangan dalam sebuah pekerjaan membuat kesempurnaan pada hasil yang dicapai <br><sub>Aristoteles</sub></p>
 						    </div>
 						</li>
 						<li>
 							
 							<div class="slider-info">
-							<p>Lorem Ipsum is simply dummy text of the printing. </p>
+							<p>Ada sebuah cara untuk melakukan lebih baik – temukanlah! <br><sub>Thomas A. Edison</sub></p>
 							
 							</div>
 						</li>
@@ -197,7 +198,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 					 <div class="education-agile-w3l-info">
 					       <h4>PAMULANG UNIVERSITY</h4>
 						   <p>Still work on Final Project for Bachelor Degree, will be completed in March 2017 <br>
-						   <a href="http://unpam.ac.id/">Unpam</a>
+						   Read more about my College <a href="http://unpam.ac.id/" target="_blank">Unpam</a>
 						   </p>
 						  
 				     </div>
@@ -326,7 +327,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 							<img src="images/1.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
 								<h4>Classy Resume</h4>
-								
+								ini ada isinya
 							</div>
 						</a>
 					</div>
