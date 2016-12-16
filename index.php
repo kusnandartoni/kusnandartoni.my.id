@@ -19,7 +19,7 @@
 |
 */
 
-require __DIR__.'/private/bootstrap/autoload.php';
+require __DIR__.'/protected/bootstrap/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -33,7 +33,7 @@ require __DIR__.'/private/bootstrap/autoload.php';
 |
 */
 
-$app = require_once __DIR__.'/private/bootstrap/app.php';
+$app = require_once __DIR__.'/protected/bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------
