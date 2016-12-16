@@ -65,7 +65,7 @@
         </style>
     </head>
     <body>
-    <center>halo dunia :v</center> <br> <h1>kusnandartoni.my.id</h1>
+    <center>halo dunia :v</center> <br> <h1>kusnandartoni.my.id</h1><br> <h2>Edy</h2>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
