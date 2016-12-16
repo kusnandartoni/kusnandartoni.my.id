@@ -65,6 +65,7 @@
         </style>
     </head>
     <body>
+    <center>halo dunia :v</center>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
