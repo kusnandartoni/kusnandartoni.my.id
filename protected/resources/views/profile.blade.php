@@ -45,20 +45,20 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 						<li>
 						
 							<div class="slider-info">
-								  <p>Persiapkan hari ini untuk keinginan hari esok <br><sub>Aesop</sub></p>
+								  <p>I walk slowly, but i never walk backward <br><sub>Abraham Lincoln</sub></p>
 
 							</div>
 						</li>
 						<li>
 							<div class="slider-info">
 							   
-								   <p>Kesenangan dalam sebuah pekerjaan membuat kesempurnaan pada hasil yang dicapai <br><sub>Aristoteles</sub></p>
+								   <p>Strong minds discuss ideas, average minds discuss events, weak minds discuss people. <br><sub>Socrates</sub></p>
 						    </div>
 						</li>
 						<li>
 							
 							<div class="slider-info">
-							<p>Ada sebuah cara untuk melakukan lebih baik – temukanlah! <br><sub>Thomas A. Edison</sub></p>
+							<p>Genius is 1% inpiration, 99% perspiration <br><sub>Thomas A. Edison</sub></p>
 							
 							</div>
 						</li>
@@ -99,9 +99,9 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					<nav class="cl-effect-1" id="cl-effect-1">
 						<ul class="nav navbar-nav">
-							<li class="active"><a class="scroll" href="index.html">Home</a></li>
+							<li class="active"><a class="scroll" href="#" >Home</a></li>
 							<li><a href="#about" class="scroll hvr-bounce-to-bottom">About</a></li>
-							<li><a href="#services" class="scroll hvr-bounce-to-bottom">Services</a></li>
+							<?//<li><a href="#services" class="scroll hvr-bounce-to-bottom">Services</a></li>?>
 							<li><a href="#education" class="scroll hvr-bounce-to-bottom">Skills</a></li>
 							<li><a href="#gallery" class="scroll hvr-bounce-to-bottom">Gallery</a></li>
 							<li><a href="#mail" class="scroll hvr-bounce-to-bottom">Contact</a></li>
@@ -152,7 +152,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 			</div>
 		</div>
 <!-- //about-bottom -->
-<!-- services -->
+<!-- services 
 <div class="service" id="services">
      <div class="container">
 	 
@@ -184,7 +184,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 	 </div>
   </div>
  </div>
-<!-- //services -->
+ //services -->
 <!-- /education -->
  <div class="education" id="education">
 	    <div class="col-md-6 education-w3l">
@@ -234,16 +234,16 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 			  </div>
 		</div>
 		<div class="col-md-6 skills">
-		<h3 class="w3l_head two">My Skills</h3>
-	     <div class="skill-agile">
-						<div class='bar_group'>
-						<div class='bar_group__bar thin elastic' label='HTML' value='230'></div>
-						<div class='bar_group__bar thin elastic' label='Css3' value='130'></div>
-						<div class='bar_group__bar thin elastic' label='Js' value='160'></div>
-						<div class='bar_group__bar thin elastic' label='Php' value='340'></div>
-					</div>
-
-						</div>
+			<h3 class="w3l_head two">My Skills</h3>
+			<div class="skill-agile">
+				<div class='bar_group'>
+					<div class='bar_group__bar thin elastic' label='Java' value='250'></div>
+					<div class='bar_group__bar thin elastic' label='VB/VB.Net' value='160'></div>
+					<div class='bar_group__bar thin elastic' label='PHP' value='230'></div>
+					<div class='bar_group__bar thin elastic' label='C/C++' value='200'></div>
+					<div class='bar_group__bar thin elastic' label='Python' value='150'></div>
+				</div>
+			</div>
 		 </div>
 		 <div class="clearfix"> </div>
 		</div>
@@ -254,17 +254,17 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 		<h3 class="w3l_head two">More Skills</h3>
 	     <div class="skill-agile">
 			<div class="col-sm-4 abt-gd-left text-center">
-			<div id="demo-pie-1" class="pie-title-center" data-percent="25"> <span class="pie-value"></span> </div>
+			<div id="demo-pie-1" class="pie-title-center" data-percent="45"> <span class="pie-value"></span> </div>
 			<h4>HTML</h4>
+		</div>
+		<div class="col-sm-4 abt-gd-left text-center">		   
+			<div id="demo-pie-3" class="pie-title-center" data-percent="80"> <span class="pie-value"></span> </div>
+			<h4>Java Script</h4>
 		</div>
 		
 		<div class="col-sm-4 abt-gd-left text-center">		   
-			<div id="demo-pie-3" class="pie-title-center" data-percent="75"> <span class="pie-value"></span> </div>
-			<h4>Java Script</h4>
-		</div>
-		<div class="col-sm-4 abt-gd-left text-center">		   
-			<div id="demo-pie-4" class="pie-title-center" data-percent="15"> <span class="pie-value"></span> </div>
-			<h4>UI/UX Designer</h4>
+			<div id="demo-pie-4" class="pie-title-center" data-percent="95"> <span class="pie-value"></span> </div>
+			<h4>MySql/SqlServ</h4>
 		</div>
 		<div class="clearfix"></div>
 </div>
@@ -279,7 +279,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 				     </div>
 					 <div class="education-agile-w3l-info">
 					       <h4>Programmer</h4>
-						   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa..</p>
+						   <p>Develop and maintenance for Online Trading Application, </p>
 						  
 				     </div>
 				      <div class="clearfix"></div>
@@ -291,7 +291,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 				     </div>
 					 <div class="education-agile-w3l-info">
 					       <h4>Assistant Lab</h4>
-						   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa..</p>
+						   <p>teaching practice for subject Programming Algorithms and Data Structures, also database</p>
 						  
 				     </div>
 				      <div class="clearfix"></div>
