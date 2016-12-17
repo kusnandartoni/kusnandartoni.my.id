@@ -100,6 +100,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 					<nav class="cl-effect-1" id="cl-effect-1">
 						<ul class="nav navbar-nav">
 							<li class="active"><a class="scroll" href="#" >Home</a></li>
+							<li><a href="https://blog.kusnandartoni.my.id/blog/" >Blog</a></li>
 							<li><a href="#about" class="scroll hvr-bounce-to-bottom">About</a></li>
 							<?//<li><a href="#services" class="scroll hvr-bounce-to-bottom">Services</a></li>?>
 							<li><a href="#education" class="scroll hvr-bounce-to-bottom">Skills</a></li>
