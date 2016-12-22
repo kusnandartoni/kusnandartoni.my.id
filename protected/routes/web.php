@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('profile');
 });
+Route::get('/webhook', function () {
+    return view('webhook');
+});
