@@ -1,8 +1,8 @@
 <?php
-$TOKEN = "285943118:AAEwOul7hSfaEqGTAM5CTI-CbQJ0AkeyFBw";
+$TOKEN = "274953553:AAHajO-HyA0LUSzN9cQq3wvAYB-LXnzPptc";
 function request_url($method)
 {
-	global $TOKEN;
+	//global $TOKEN;
 	return "https://api.telegram.org/bot" . $TOKEN . "/". $method;
 }
 function send_reply($chatid, $msgid, $text)
