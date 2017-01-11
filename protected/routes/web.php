@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/webhook', function () {
     return view('webhook');
 });
+Route::get('/coba', function () {
+    return view('coba');
+});

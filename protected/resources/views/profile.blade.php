@@ -16,6 +16,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
+
 <!-- //for-mobile-apps -->
 <link href="cssP/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="cssP/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -273,10 +274,22 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 	    <div class="col-md-6 education-w3l">
 		     <h3 class="w3l_head three">My Experience</h3>
 			  <div class="education-agile-grids">
+			  	<div class="education-agile-w3l">
+				     <div class="education-agile-w3l-year">
+					       <h4>PT BCA Sekuritas</h4>
+						   <h6>Des 2016 - Now</h6>
+				     </div>
+					 <div class="education-agile-w3l-info">
+					       <h4>-</h4>
+						  <p>-</p>
+						  
+				     </div>
+				      <div class="clearfix"></div>
+				  </div>
 				  <div class="education-agile-w3l">
 				     <div class="education-agile-w3l-year">
-					       <h4>Jan 2016 -<br>Des 2016</h4>
-						   <h6>PT. CNAINDO TEKNOLOGI</h6>
+					       <h4>PT CNAINDO TEKNOLOGI</h4>
+						   <h6>Jan 2016 - Des 2016</h6>
 				     </div>
 					 <div class="education-agile-w3l-info">
 					       <h4>Programmer</h4>
@@ -287,8 +300,8 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 				  </div>
 				  <div class="education-agile-w3l two">
 				     <div class="education-agile-w3l-year">
-					       <h4>Mar 2014 - <br>Mar 2016</h4>
-						   <h6>Lab. Komputer Univ. Pamulang</h6>
+					       <h4>Lab. Komputer Univ. Pamulang</h4>
+						   <h6>Mar 2014 - Mar 2016</h6>
 				     </div>
 					 <div class="education-agile-w3l-info">
 					       <h4>Assistant Lab</h4>
@@ -297,18 +310,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 				     </div>
 				      <div class="clearfix"></div>
 				  </div>
-				  <div class="education-agile-w3l">
-				     <div class="education-agile-w3l-year">
-					       <h4>-</h4>
-						   <h6>-</h6>
-				     </div>
-					 <div class="education-agile-w3l-info">
-					       <h4>-</h4>
-						  <p>-</p>
-						  
-				     </div>
-				      <div class="clearfix"></div>
-				  </div>
+				  
 				 
 			  </div>
 		</div>
